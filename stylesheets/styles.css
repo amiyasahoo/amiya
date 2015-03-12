@@ -7,6 +7,12 @@ body {
   font-weight:300;
 }
 
+#compensator{
+	height: 50px;
+	background: -webkit-linear-gradient( #F1F1F1, #E0E0E0, #DDDDDD);
+	background: -moz-linear-gradient( #F1F1F1, #E0E0E0, #DDDDDD); 
+ 	background: -o-linear-gradient( #F1F1F1, #E0E0E0, #DDDDDD);background:linear-gradient( #F1F1F1, #E0E0E0, #DDDDDD);
+	border-bottom: 2px solid white;}
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
